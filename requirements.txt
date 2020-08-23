@@ -65,7 +65,7 @@ sklearn==0.0
 tabledata==0.9.1
 tensorboard==1.14.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.14.0
+tensorflow-gpu==1.15.2
 tensorflow-probability==0.7.0
 termcolor==1.1.0
 typepy==0.6.0
