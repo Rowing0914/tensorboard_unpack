@@ -37,7 +37,7 @@ mbstrdecoder==0.8.1
 msgfy==0.0.7
 mujoco-py==2.0.2.5
 networkx==2.4
-numpy==1.17.2
+numpy==1.22.0
 nvidia-ml-py3==7.352.0
 opencv-python==4.1.1.26
 pandas==0.25.3
